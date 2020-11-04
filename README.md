@@ -22,8 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-### Additional setup
-After cloning this repository and setup the project with ````npm install```
-you will need to install uuid
